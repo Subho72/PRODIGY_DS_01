@@ -15,7 +15,7 @@ World Bank Population Dataset
 
 ## Output Screenshot
 
-![Bar Chart](screenshots/bar_chart.png)
+![Bar Chart](screenshots/Bar_Chart_1.png)
 
 ## Author
 Subham
