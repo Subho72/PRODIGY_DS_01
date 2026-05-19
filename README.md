@@ -1,2 +1,21 @@
 # PRODIGY_DS_01
-Data Visualization project using Tableau and World Bank population datasets.
+
+## Task
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
+
+## Dataset
+World Bank Population Dataset
+
+## Tool Used
+- Tableau
+- GitHub
+
+## Visualization
+- Bar Chart showing population distribution by country
+
+## Output Screenshot
+
+![Bar Chart](screenshots/bar_chart.png)
+
+## Author
+Subham
